@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: "That certain light.\_"
-datePublished: '2016-04-15T14:28:02.866Z'
-dateModified: '2016-04-15T02:14:15.965Z'
+datePublished: '2016-04-15T14:31:17.830Z'
+dateModified: '2016-04-15T14:28:05.176Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-15-that-certain-light.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-15-that-certain-light.md
-published: true
 url: that-certain-light/index.html
 _type: Article
 
