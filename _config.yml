@@ -1,0 +1,28 @@
+name: Pursuit Wedding Films
+favicon: null
+layout_spectrum: 0.6653198334388435
+typography_spectrum: 0.7675314811058342
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.5161648753564805
+  lightness: 0.5589714511297643
+  saturation: 0.19010402378626168
+  rhythmicContrast: 0.5484963085036725
+purpose: []
